@@ -5,7 +5,7 @@
    - Ashwath Soni (ashboi005)
    - Shreyaan Seth (shreyaan)
    - Sahil Chabra (sahilchabra09)
-   - Arunya Mahajan (Arunya-Kate)
+   - Arunya (Ester-D-Kate)
 
 ## Project Summary
 
